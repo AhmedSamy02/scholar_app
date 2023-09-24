@@ -1,3 +1,3 @@
 # scholar_app
 
-A new Flutter project.
+A group chat app with login page depends on firebase
